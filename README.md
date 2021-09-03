@@ -16,7 +16,7 @@ https://baitrainingdataset.blob.core.windows.net/interviewdata/test_images.zip
 docker build -t flaskapp .
 
 
-# Make sure your firewall is off or you have allowed the following port in firewall or inbound traffic
+# Make sure your port is forwarded or you have allowed the following port in firewall or inbound traffic
 
 ## 4. Run Docker Image and expose port 5000
 
