@@ -27,6 +27,8 @@ docker run -dit -p 5000:5000 --name flask1 flaskapp
    http://<ip>:5000
    
 Now Upload Image and Your Prediction will be done
+   
+![Image of Yaktocat](https://github.com/the-helel/ML-Pipeline-Docker/blob/main/Flaskapp.png)
 
 # Task 1 : Things to think about
 
@@ -36,9 +38,9 @@ Now Upload Image and Your Prediction will be done
 
 # Task 2 : Things to think about
 
-## A. So as ssid, We can Scale Our Pipeline By Running Pipeline using Kubernetes and Manage multiple containers at the same time. If a container/pod Stops or Fails it will automatically launch new one and we can also scale number of containers/pods we need to run
+## A. So as said, We can Scale Our Pipeline By Running Pipeline using Kubernetes and Manage multiple containers at the same time. If a container/pod Stops or Fails it will automatically launch new one and we can also scale number of containers/pods we need to run
 
-## B. For Updatipn of pipeline, we just need to code and upload it to Github, Then Jenkins will automatically Triggered and run create new Docker Image and Run Kubernetes to scale new image on the go without experiencing any Downtime.
+## B. For Updating of pipeline, we just need to code and upload it to Github, Then Jenkins will automatically Triggered and run create new Docker Image and Run Kubernetes to scale new image on the go without experiencing any Downtime.
 
 
 
