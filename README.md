@@ -1,7 +1,7 @@
 # Prediction Using ML Pipeline
 # Steps to Run App
 
-## 1. Download The model_weights.h5 and put it in main Directory where app.py is there
+## 1. Download The model_weights.h5 and Architecture json file , put it in main Directory where app.py is there.
 
 https://baitrainingdataset.blob.core.windows.net/interviewdata/model_architecture_and_weights.zip 
 
