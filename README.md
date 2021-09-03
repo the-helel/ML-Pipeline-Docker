@@ -28,7 +28,7 @@ docker run -dit -p 5000:5000 --name flask1 flaskapp
    
 Now Upload Image and Your Prediction will be done
    
-![Image of Yaktocat](https://github.com/the-helel/ML-Pipeline-Docker/blob/main/Flaskapp.png)
+![Image of FlaskApp](https://github.com/the-helel/ML-Pipeline-Docker/blob/main/Flaskapp.png)
 
 # Task 1 : Things to think about
 
